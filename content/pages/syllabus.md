@@ -29,10 +29,47 @@ Fischer, Hugo B., John E. List, C. Robert Koh, Jorg Imberger, and Norman H. Broo
 Grading Criteria
 ----------------
 
-| Activities | percentages |
-| --- | --- |
-| Problem Sets | 30% |
-| Two Quizzes (25% each; one take-home, one in-class; both open book) | 50% |
-| Special Project (short group computer modeling exercise, or individual critique of modeling paper) | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Quizzes (25% each; one take-home, one in-class; both open book)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Special Project (short group computer modeling exercise, or individual critique of modeling paper)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Optional final exam ("third quiz," you can average the three to improve grade). 3 hour open book.
