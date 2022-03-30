@@ -5,6 +5,7 @@ description: This resource gives information on turbulence, turbulent (eddy) dif
   conditions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-77-water-quality-control-spring-2006/7a7cd5e7f0b7223e90c8b46810d9459a_chapter2lecture.pdf
 file_type: application/pdf
+parent_uid: d0ba6d82-f5c7-3e28-34b4-741132881405
 resourcetype: Document
 title: chapter2lecture.pdf
 uid: 7a7cd5e7-f0b7-223e-90c8-b46810d9459a
